@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @blakenuova
 - 👀 I’m interested in Art, Animations and Game Development
-- 🌱 I’m currently learning Unity and C# scripting
+- 🌱 I’m currently learning Godot and making my own Game
 -
 <!---
 blakenuova/blakenuova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
